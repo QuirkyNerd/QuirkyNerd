@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=👋Howdy!+%F0%9F%91%8B;I'm+Adithya" alt="Typing SVG" />
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=%F0%9F%91%8B+Howdy!;I'm+Adithya+B+V;Computer+Science+Engineer;AI%2FML+%26+Full-Stack+Developer;Building+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
 
-### AI/ML • Full-Stack Development • Backend Systems
+<br>
+
+**AI/ML • Full-Stack Development • Backend Systems**
 
 </div>
 
@@ -11,202 +12,142 @@
 
 ## 👨‍💻 About Me
 
-I'm **Adithya B V**, a Computer Science Engineer passionate about building practical software and exploring intelligent systems.
+Hi! I'm **Adithya B V**, a Computer Science Engineer who enjoys building software, exploring new technologies, and turning ideas into working systems.
 
-I enjoy working across the stack — from designing backend services and APIs to building modern web applications and integrating AI/ML capabilities into real-world systems.
+I'm particularly interested in the intersection of **Artificial Intelligence and Software Engineering** — from intelligent applications and RAG pipelines to backend systems and modern web applications.
 
-My current interests include:
+I enjoy working across the stack and learning how different pieces of a system come together, from **frontend interfaces and APIs to databases, AI models, deployment, and infrastructure**.
+
+### 🔭 Areas I Work With
 
 * 🤖 Artificial Intelligence & Machine Learning
 * 🧠 LLM applications, RAG & AI agents
 * 🌐 Full-Stack Web Development
 * ⚡ Backend Engineering & REST APIs
-* 🐳 Docker, CI/CD & deployment
-* 🔍 Information Retrieval & semantic search
-* 🗄️ Databases and distributed application architecture
+* 🔍 Semantic Search & Information Retrieval
+* 🗄️ Databases & Data-driven applications
+* 🐳 Docker, CI/CD & Deployment
+* ☁️ Cloud & Infrastructure
 
-I like taking an idea from **concept → architecture → implementation → deployment**.
-
----
-
-## 🚀 Featured Projects
-
-### 🩺 CodePerfectAuditor — AI Clinical Coding Integrity Engine
-
-An AI-powered system designed to analyze clinical notes and validate **ICD-10 and CPT medical codes**.
-
-**Highlights:**
-
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🧠 Clinical embeddings and semantic search
-* 📚 Hybrid retrieval using dense + lexical search
-* 🤖 Multi-agent AI pipeline
-* 🧪 Benchmarking and confidence scoring
-* ⚡ FastAPI backend with Docker deployment
-* 🗃️ ChromaDB / vector database integration
-* 🧬 Clinical NLP with medical-domain models
-
-**Tech:** `Python` `FastAPI` `RAG` `LLM` `Gemini` `ChromaDB` `SentenceTransformers` `Docker`
+> **Build → Learn → Experiment → Improve**
 
 ---
 
-### 🤖 Autonomous Software Development Framework
-
-A multi-agent framework exploring how AI agents can collaborate across different stages of software development.
-
-**Highlights:**
-
-* Multi-agent architecture
-* Agent orchestration
-* Automated development workflows
-* Docker-based execution
-* CI/CD integration
-* Software engineering automation
-
-**Tech:** `Python` `Semantic Kernel` `Docker` `CI/CD` `AI Agents`
-
----
-
-### 🛒 MERN Stripe Commerce Platform
-
-A full-stack e-commerce application with authentication, product management and integrated payments.
-
-**Highlights:**
-
-* 🔐 JWT-based authentication
-* 💳 Stripe payment integration
-* 🛍️ E-commerce workflow
-* 🌐 REST APIs
-* 🗄️ MongoDB database
-* ⚡ React-based frontend
-
-**Tech:** `MongoDB` `Express.js` `React` `Node.js` `Stripe` `JWT`
-
----
-
-### 🫁 Chest Cancer Classification
-
-A deep-learning based medical image classification system for chest cancer detection.
-
-**Highlights:**
-
-* Convolutional Neural Network (CNN)
-* ML experiment tracking
-* Data versioning
-* Reproducible ML workflow
-
-**Tech:** `Python` `CNN` `Machine Learning` `MLflow` `DVC`
-
----
-
-### 🔐 Secure File Transfer System
-
-A secure file-transfer project exploring cryptographic techniques and secure communication.
-
-**Tech:** `JavaScript` `HTML` `Cryptography` `Networking`
-
----
-
-## 🧰 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
-</p>
-
-### Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-`RAG` `LLMs` `Embeddings` `SentenceTransformers` `Hugging Face` `Semantic Search` `AI Agents` `NLP`
-
-### Databases & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,nginx,git,github,linux" />
-</p>
-
----
-
-## 🧠 What I Like Building
-
-```text
-AI-powered applications
-        ↓
-Retrieval & semantic search
-        ↓
-LLM / Agent workflows
-        ↓
-Backend APIs & services
-        ↓
-Modern web interfaces
-        ↓
-Dockerized & deployable systems
-```
-
-I'm particularly interested in the intersection of **AI + software engineering** — building systems where machine learning is not just a model, but part of a complete, usable application.
-
----
-
-## 📌 Currently Exploring
-
-* Advanced RAG architectures
-* Agentic AI systems
-* LLM application engineering
-* AI evaluation & benchmarking
-* Backend scalability
-* Cloud deployment & DevOps
-* Better software architecture
-
----
-
-## 📊 GitHub
+## 🌐 Let's Connect
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=QuirkyNerd&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuirkyNerd&layout=compact&hide_border=true" height="165" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/QuirkyNerd">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
+<a href="mailto:adithyabv3003@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
+## 🛠️ Technologies & Tools
+
+### Languages
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+
+</div>
+
+### Development
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css" />
+
+</div>
+
+### AI / ML
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+</div>
+
+`RAG` `LLMs` `Embeddings` `SentenceTransformers` `Hugging Face` `NLP` `Semantic Search` `AI Agents`
+
+### Databases & Infrastructure
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,nginx,git,github,linux" />
+
+</div>
+
+---
+
+## 🧩 What I Like Building
+
+```text
+        💡 Ideas
+           │
+           ▼
+    🧠 AI / ML Systems
+           │
+           ▼
+    🔍 RAG & AI Agents
+           │
+           ▼
+    ⚡ Backend Services
+           │
+           ▼
+    🌐 Full-Stack Applications
+           │
+           ▼
+    🐳 Deployment & Infrastructure
+```
+
+I'm especially interested in building **complete, usable systems** rather than isolated models or small pieces of code.
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
 
-### 💡 Build. Learn. Experiment. Repeat.
+<img src="https://github-readme-stats.vercel.app/api?username=QuirkyNerd&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
 
-*Always curious about what can be built next.*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuirkyNerd&layout=compact&hide_border=true" height="170" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=QuirkyNerd&hide_border=true" />
+
+</div>
+
+---
+
+## 🔎 Currently Exploring
+
+* Advanced RAG architectures
+* Agentic AI & multi-agent systems
+* LLM application engineering
+* AI evaluation & benchmarking
+* Backend architecture & scalability
+* Cloud deployment & DevOps
+* Building reliable AI-powered applications
+
+---
+
+<div align="center">
+
+### 🚀 Always building. Always learning.
+
+*Curious about technology, excited by problems, and always looking for something new to build.*
 
 </div>
