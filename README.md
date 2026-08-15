@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=%F0%9F%91%8B+Howdy!;I'm+Adithya+B+V;Computer+Science+Engineer;AI%2FML+%26+Full-Stack+Developer;Building+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=%F0%9F%91%8B+Howdy!;I'm+Adithya;Computer+Science+Engineer" alt="Typing SVG" />
 
 <br>
 
@@ -12,28 +12,25 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Adithya B V**, a Computer Science Engineer who enjoys building software, exploring new technologies, and turning ideas into working systems.
+I'm **Adithya**, a Computer Science Engineer who enjoys building software, exploring new technologies, and turning ideas into working systems.
 
-I'm particularly interested in the intersection of **Artificial Intelligence and Software Engineering** — from intelligent applications and RAG pipelines to backend systems and modern web applications.
+I'm particularly interested in the intersection of **Artificial Intelligence and Software Engineering** — building intelligent applications while understanding everything around them, from APIs and databases to deployment and infrastructure.
 
-I enjoy working across the stack and learning how different pieces of a system come together, from **frontend interfaces and APIs to databases, AI models, deployment, and infrastructure**.
+I enjoy taking projects from **idea → architecture → implementation → deployment** and learning something new along the way.
 
-### 🔭 Areas I Work With
+### 🔭 Areas I Explore
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 LLM applications, RAG & AI agents
-* 🌐 Full-Stack Web Development
-* ⚡ Backend Engineering & REST APIs
-* 🔍 Semantic Search & Information Retrieval
-* 🗄️ Databases & Data-driven applications
-* 🐳 Docker, CI/CD & Deployment
-* ☁️ Cloud & Infrastructure
-
-> **Build → Learn → Experiment → Improve**
+🤖 Artificial Intelligence & Machine Learning
+🧠 LLM Applications & AI Agents
+🔎 RAG & Semantic Search
+🌐 Full-Stack Web Development
+⚡ Backend Engineering & APIs
+🐳 Docker, CI/CD & Deployment
+☁️ Cloud & Infrastructure
 
 ---
 
-## 🌐 Let's Connect
+## 🤙🏼 Let's Connect
 
 <div align="center">
 
@@ -49,64 +46,58 @@ I enjoy working across the stack and learning how different pieces of a system c
 
 ---
 
-## 🛠️ Technologies & Tools
+## ⚙️ Technologies & Tools
 
-### Languages
+<div align="center">
 
-<div align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,fastapi,mongodb,postgres,redis,docker,nginx,git,github,linux&perline=9" />
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+<br><br>
 
-</div>
-
-### Development
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface" />
 
 </div>
 
-### AI / ML
+<br>
 
-<div align="left">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-</div>
-
-`RAG` `LLMs` `Embeddings` `SentenceTransformers` `Hugging Face` `NLP` `Semantic Search` `AI Agents`
-
-### Databases & Infrastructure
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,nginx,git,github,linux" />
+<img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SentenceTransformers-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semantic_Search-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-4B5563?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧩 What I Like Building
+## What I Like Building
+
+<div align="center">
 
 ```text
-        💡 Ideas
-           │
-           ▼
-    🧠 AI / ML Systems
-           │
-           ▼
-    🔍 RAG & AI Agents
-           │
-           ▼
-    ⚡ Backend Services
-           │
-           ▼
-    🌐 Full-Stack Applications
-           │
-           ▼
-    🐳 Deployment & Infrastructure
+             💡 Ideas
+                │
+                ▼
+        🤖 Intelligent Systems
+                │
+                ▼
+         🔎 RAG & AI Agents
+                │
+                ▼
+          ⚡ Backend APIs
+                │
+                ▼
+       🌐 Full-Stack Applications
+                │
+                ▼
+       🐳 Deployable Systems
 ```
+
+</div>
 
 I'm especially interested in building **complete, usable systems** rather than isolated models or small pieces of code.
 
@@ -120,34 +111,12 @@ I'm especially interested in building **complete, usable systems** rather than i
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuirkyNerd&layout=compact&hide_border=true" height="170" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=QuirkyNerd&hide_border=true" />
 
 </div>
 
 ---
-
-## 🔎 Currently Exploring
-
-* Advanced RAG architectures
-* Agentic AI & multi-agent systems
-* LLM application engineering
-* AI evaluation & benchmarking
-* Backend architecture & scalability
-* Cloud deployment & DevOps
-* Building reliable AI-powered applications
-
----
-
-<div align="center">
-
-### 🚀 Always building. Always learning.
-
-*Curious about technology, excited by problems, and always looking for something new to build.*
 
 </div>
