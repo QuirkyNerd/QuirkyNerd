@@ -16,15 +16,15 @@ I'm particularly interested in the intersection of **Artificial Intelligence and
 
 I enjoy taking projects from **idea → architecture → implementation → deployment** and learning something new along the way.
 
-### 🔭 Areas I Explore
+### Areas I Explore
 
-🤖 Artificial Intelligence & Machine Learning
-🧠 LLM Applications & AI Agents
-🔎 RAG & Semantic Search
-🌐 Full-Stack Web Development
-⚡ Backend Engineering & APIs
-🐳 Docker, CI/CD & Deployment
-☁️ Cloud & Infrastructure
+- Artificial Intelligence & Machine Learning
+- LLM Applications & AI Agents
+- RAG & Semantic Search
+- Full-Stack Web Development
+- Backend Engineering & APIs
+- Docker, CI/CD & Deployment
+- Cloud & Infrastructure
 
 ---
 
@@ -48,36 +48,11 @@ I enjoy taking projects from **idea → architecture → implementation → depl
 
 **I use these often:**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,git,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,vscode,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,git,github&perline=8" />
 
 **I use these a little less often:**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nginx,aws,postman,vercel,flask,vscode,linux&perline=9" />
-
----
-
-## 🧠 What I Like Building
-
-```text
-        💡 Ideas
-           │
-           ▼
-   🤖 Intelligent Systems
-           │
-           ▼
-    🔎 RAG & AI Agents
-           │
-           ▼
-      ⚡ Backend APIs
-           │
-           ▼
-  🌐 Full-Stack Applications
-           │
-           ▼
-   🐳 Deployable Systems
-```
-
-I'm especially interested in building **complete, usable systems** rather than isolated models or small pieces of code.
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nginx,aws,postman,vercel,flask,linux&perline=9" />
 
 ---
 
