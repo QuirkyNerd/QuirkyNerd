@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=%F0%9F%91%8B+Howdy!;I'm+Adithya;Computer+Science+Engineer" alt="Typing SVG" />
 
+<br> **AI/ML • Full-Stack Development • Backend Systems**
+
 </div>
 
 ---
@@ -46,11 +48,11 @@ I enjoy taking projects from **idea → architecture → implementation → depl
 
 **I use these often:**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,express,fastapi,mongodb,postgres,redis,docker,git,github,linux&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,git,github&perline=8" />
 
 **I use these a little less often:**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,nginx,aws,oracle,postman,vercel&perline=8" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nginx,aws,postman,vercel,flask,vscode,linux&perline=9" />
 
 ---
 
@@ -76,22 +78,6 @@ I enjoy taking projects from **idea → architecture → implementation → depl
 ```
 
 I'm especially interested in building **complete, usable systems** rather than isolated models or small pieces of code.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=QuirkyNerd&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuirkyNerd&layout=compact&hide_border=true" height="170" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=QuirkyNerd&hide_border=true" />
-
-</div>
 
 ---
 
