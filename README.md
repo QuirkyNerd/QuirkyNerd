@@ -16,15 +16,10 @@ I'm particularly interested in the intersection of **Artificial Intelligence and
 
 I enjoy taking projects from **idea → architecture → implementation → deployment** and learning something new along the way.
 
-### Areas I Explore
 
-- Artificial Intelligence & Machine Learning
-- LLM Applications & AI Agents
-- RAG & Semantic Search
-- Full-Stack Web Development
-- Backend Engineering & APIs
-- Docker, CI/CD & Deployment
-- Cloud & Infrastructure
+### 🔭 Areas I Explore
+
+Artificial Intelligence & Machine Learning · LLM Applications & AI Agents · RAG & Semantic Search · Full-Stack Web Development · Backend Engineering & APIs · Docker, CI/CD & Deployment · Cloud & Infrastructure
 
 ---
 
