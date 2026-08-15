@@ -26,6 +26,7 @@ Artificial Intelligence & Machine Learning | LLM Applications & AI Agents | RAG 
 
 <br>
 
+
 ## 🤙🏼 Let's Connect
 
 <div align="center">
@@ -41,6 +42,7 @@ Artificial Intelligence & Machine Learning | LLM Applications & AI Agents | RAG 
 </div>
 
 <br>
+
 
 
 ## ⚙️ Technologies & Tools
