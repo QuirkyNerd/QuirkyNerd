@@ -19,7 +19,7 @@ I enjoy taking projects from **idea → architecture → implementation → depl
 
 ### 🔭 Areas I Explore
 
-Artificial Intelligence & Machine Learning · LLM Applications & AI Agents · RAG & Semantic Search · Full-Stack Web Development · Backend Engineering & APIs · Docker, CI/CD & Deployment · Cloud & Infrastructure
+Artificial Intelligence & Machine Learning | LLM Applications & AI Agents | RAG & Semantic Search | Full-Stack Web Development | Backend Engineering & APIs | Docker, CI/CD & Deployment | Cloud & Infrastructure
 
 ---
 
@@ -43,7 +43,7 @@ Artificial Intelligence & Machine Learning · LLM Applications & AI Agents · RA
 
 **I use these often:**
 
-<img src="https://skillicons.dev/icons?i=python,java,vscode,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,git,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,vscode,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github&perline=8" />
 
 **I use these a little less often:**
 
