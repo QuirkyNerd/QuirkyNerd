@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=%F0%9F%91%8B+Howdy!;I'm+Adithya;Computer+Science+Engineer" alt="Typing SVG" />
 
-<br>
-
-**AI/ML • Full-Stack Development • Backend Systems**
-
 </div>
 
 ---
@@ -48,56 +44,36 @@ I enjoy taking projects from **idea → architecture → implementation → depl
 
 ## ⚙️ Technologies & Tools
 
-<div align="center">
+**I use these often:**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,fastapi,mongodb,postgres,redis,docker,nginx,git,github,linux&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,express,fastapi,mongodb,postgres,redis,docker,git,github,linux&perline=9" />
 
-<br><br>
+**I use these a little less often:**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLMs-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embeddings-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SentenceTransformers-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Semantic_Search-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Agents-4B5563?style=for-the-badge" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,nginx,aws,oracle,postman,vercel&perline=8" />
 
 ---
 
-## What I Like Building
-
-<div align="center">
+## 🧠 What I Like Building
 
 ```text
-             💡 Ideas
-                │
-                ▼
-        🤖 Intelligent Systems
-                │
-                ▼
-         🔎 RAG & AI Agents
-                │
-                ▼
-          ⚡ Backend APIs
-                │
-                ▼
-       🌐 Full-Stack Applications
-                │
-                ▼
-       🐳 Deployable Systems
+        💡 Ideas
+           │
+           ▼
+   🤖 Intelligent Systems
+           │
+           ▼
+    🔎 RAG & AI Agents
+           │
+           ▼
+      ⚡ Backend APIs
+           │
+           ▼
+  🌐 Full-Stack Applications
+           │
+           ▼
+   🐳 Deployable Systems
 ```
-
-</div>
 
 I'm especially interested in building **complete, usable systems** rather than isolated models or small pieces of code.
 
@@ -118,5 +94,7 @@ I'm especially interested in building **complete, usable systems** rather than i
 </div>
 
 ---
+
+<div align="center">
 
 </div>
