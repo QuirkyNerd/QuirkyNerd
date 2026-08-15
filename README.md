@@ -28,7 +28,7 @@ Artificial Intelligence & Machine Learning | LLM Applications & AI Agents | RAG 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="https://www.linkedin.com/in/bvadithya">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -44,11 +44,11 @@ Artificial Intelligence & Machine Learning | LLM Applications & AI Agents | RAG 
 
 **I use these often:**
 
-<img src="https://skillicons.dev/icons?i=python,java,vscode,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,vscode,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,docker,github&perline=8" />
 
 **I use these a little less often:**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nginx,aws,postman,vercel,flask,linux&perline=9" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,postman,vercel,flask,linux&perline=9" />
 
 ---
 
