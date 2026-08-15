@@ -6,7 +6,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -19,9 +19,10 @@ I enjoy taking projects from **idea → architecture → implementation → depl
 
 ### 🔭 Areas I Explore
 
-Artificial Intelligence & Machine Learning ◆ LLM Applications & AI Agents ◆ RAG & Semantic Search ◆ Full-Stack Web Development ◆ Backend Engineering & APIs ◆ Docker, CI/CD & Deployment ◆ Cloud & Infrastructure
+Artificial Intelligence & Machine Learning | LLM Applications & AI Agents | RAG & Semantic Search | Full-Stack Web Development | Backend Engineering & APIs | Docker, CI/CD & Deployment | Cloud & Infrastructure
 
----
+
+
 
 ## 🤙🏼 Let's Connect
 
@@ -37,7 +38,8 @@ Artificial Intelligence & Machine Learning ◆ LLM Applications & AI Agents ◆ 
 
 </div>
 
----
+
+
 
 ## ⚙️ Technologies & Tools
 
