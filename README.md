@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=%F0%9F%91%8B+Howdy!;I'm+Adithya;Computer+Science+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=%F0%9F%91%8B+Howdy!;I'm+Adithya" alt="Typing SVG" />
 
 <br> **AI/ML • Full-Stack Development • Backend Systems**
 
@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-I'm **Adithya**, a Computer Science Engineer who enjoys building software, exploring new technologies, and turning ideas into working systems.
+I'm **Adithya**, a Computer Science Graduate who enjoys building software, exploring new technologies, and turning ideas into working systems.
 
-I'm particularly interested in the intersection of **Artificial Intelligence and Software Engineering** — building intelligent applications while understanding everything around them, from APIs and databases to deployment and infrastructure.
+I'm  interested in the intersection of **Artificial Intelligence and Software Engineering** — building intelligent applications while understanding everything around them, from APIs and databases to deployment and infrastructure.
 
 I enjoy taking projects from **idea → architecture → implementation → deployment** and learning something new along the way.
 
